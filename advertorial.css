@@ -1,0 +1,14 @@
+.title-side1 {
+    font-size: 20px;
+}
+
+.sidebar-separators {
+    border-left: 1px solid lightgray !important;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.sidebar-separators:not(.last) {
+    border-bottom: 1px solid lightgray;
+}
